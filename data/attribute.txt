@@ -1,0 +1,252 @@
+surgery
+max: 2
+min: 1
+mean: 1.4153
+median: 1
+quartile-1/4: 1
+quartile-3/4: 2
+missing: 2
+
+Age
+max: 9
+min: 1
+mean: 1.6087
+median: 1
+quartile-1/4: 1
+quartile-3/4: 1
+missing: 0
+
+Hospital_Number
+max: 5305629
+min: 514279
+mean: 1112333.8614
+median: 530299
+quartile-1/4: 528911.5
+quartile-3/4: 534736
+missing: 0
+
+rectal_temperature
+max: 40.8
+min: 35.4
+mean: 38.1344
+median: 38.1
+quartile-1/4: 37.8
+quartile-3/4: 38.5
+missing: 69
+
+pulse
+max: 184
+min: 30
+mean: 70.7573
+median: 60
+quartile-1/4: 48
+quartile-3/4: 88
+missing: 26
+
+respiratory_rate
+max: 96
+min: 8
+mean: 30.5219
+median: 28
+quartile-1/4: 18
+quartile-3/4: 36
+missing: 71
+
+temperature_of_extremities
+max: 4
+min: 1
+mean: 2.3564
+median: 3
+quartile-1/4: 1
+quartile-3/4: 3
+missing: 65
+
+peripheral_pulse
+max: 4
+min: 1
+mean: 1.9614
+median: 1
+quartile-1/4: 1
+quartile-3/4: 3
+missing: 83
+
+mucous_membranes
+max: 6
+min: 1
+mean: 2.8344
+median: 3
+quartile-1/4: 1
+quartile-3/4: 4
+missing: 48
+
+capillary_refill_time
+max: 3
+min: 1
+mean: 1.303
+median: 1
+quartile-1/4: 1
+quartile-3/4: 2
+missing: 38
+
+pain
+max: 5
+min: 1
+mean: 2.9082
+median: 3
+quartile-1/4: 2
+quartile-3/4: 4
+missing: 63
+
+peristalsis
+max: 4
+min: 1
+mean: 2.9082
+median: 3
+quartile-1/4: 3
+quartile-3/4: 4
+missing: 52
+
+abdominal_distension
+max: 4
+min: 1
+mean: 2.2244
+median: 2
+quartile-1/4: 1
+quartile-3/4: 3
+missing: 65
+
+nasogastric_tube
+max: 3
+min: 1
+mean: 1.7384
+median: 2
+quartile-1/4: 1
+quartile-3/4: 2
+missing: 131
+
+nasogastric_reflux
+max: 3
+min: 1
+mean: 1.6085
+median: 1
+quartile-1/4: 1
+quartile-3/4: 2
+missing: 133
+
+nasogastric_reflux_PH
+max: 8.5
+min: 1
+mean: 4.9623
+median: 5.4
+quartile-1/4: 3.375
+quartile-3/4: 6.5
+missing: 299
+
+rectal_examination
+max: 4
+min: 1
+mean: 2.7792
+median: 3
+quartile-1/4: 1
+quartile-3/4: 4
+missing: 128
+
+abdomen
+max: 5
+min: 1
+mean: 3.7156
+median: 4
+quartile-1/4: 3
+quartile-3/4: 5
+missing: 143
+
+packed_cell_volume
+max: 75
+min: 4
+mean: 45.6568
+median: 44
+quartile-1/4: 37.125
+quartile-3/4: 52
+missing: 37
+
+total_protein
+max: 89
+min: 3.3
+mean: 24.7711
+median: 7.5
+quartile-1/4: 6.5
+quartile-3/4: 58
+missing: 43
+
+abdominocentesis_appearance
+max: 3
+min: 1
+mean: 2.046
+median: 2
+quartile-1/4: 1
+quartile-3/4: 3
+missing: 194
+
+abdomcentesis_total_protein
+max: 10.1
+min: 0.1
+mean: 2.9481
+median: 2.1
+quartile-1/4: 1.95
+quartile-3/4: 3.9
+missing: 235
+
+outcome
+max: 3
+min: 1
+mean: 1.5273
+median: 1
+quartile-1/4: 1
+quartile-3/4: 2
+missing: 2
+
+surgical_lesion
+max: 2
+min: 1
+mean: 1.3696
+median: 1
+quartile-1/4: 1
+quartile-3/4: 2
+missing: 0
+
+lesion1
+max: 41110
+min: 0
+mean: 3650.8342
+median: 3025
+quartile-1/4: 2111.5
+quartile-3/4: 3209
+missing: 0
+
+lesion2
+max: 7111
+min: 0
+mean: 96.9728
+median: 0
+quartile-1/4: 0
+quartile-3/4: 0
+missing: 0
+
+lesion3
+max: 2209
+min: 0
+mean: 6.0027
+median: 0
+quartile-1/4: 0
+quartile-3/4: 0
+missing: 0
+
+cp_data
+max: 2
+min: 1
+mean: 1.663
+median: 2
+quartile-1/4: 1
+quartile-3/4: 2
+missing: 0
+
